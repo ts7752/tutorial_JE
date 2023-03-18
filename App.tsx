@@ -9,6 +9,8 @@ export default function App() {
     </View>
   );
 }
+//asfas
+//a/sdfa
 
 const styles = StyleSheet.create({
   container: {
